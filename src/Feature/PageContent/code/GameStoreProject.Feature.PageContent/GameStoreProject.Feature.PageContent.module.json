@@ -1,0 +1,31 @@
+{
+    "namespace": "GameStoreProject.Feature.PageContent",
+    "description": "Content for Game Store Features",
+    "tags": ["content"],
+    "items": {
+      "includes": [
+        {
+          "name": "GameStoreProject.Feature.PageContent",
+          "path": "/sitecore/content",
+          "rules": [
+            {
+              "path": "/legacy",
+              "scope": "ignored"
+            }
+          ]
+        },
+        {
+          "name": "GameStoreProject.MediaLibrary",
+          "path": "/sitecore/media library/Images"
+        },
+	{
+          "name": "GameStoreProject.Feature.Renderings",
+          "path": "/sitecore/layout/Renderings/Feature"
+        },
+	{
+          "name": "GameStoreProject.Feature.Templates",
+          "path": "/sitecore/templates/Feature"
+        }
+      ]
+    }
+}

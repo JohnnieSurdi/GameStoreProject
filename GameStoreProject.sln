@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Project", "1.Project", "{7C877A66-2F3D-40D9-B44D-4619B8FB7338}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Feature", "2.Feature", "{5DE637CB-36F1-4EC6-AC31-334C939CB601}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Foundation", "3.Foundation", "{4BC67B73-131B-4835-9FE8-9C67330D01B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configuration", "{98463F0A-94EE-4838-A726-44E322E6DB18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStoreProject.Foundation.Configuration", "src\Foundation\Configuration\code\GameStoreProject.Foundation.Configuration\GameStoreProject.Foundation.Configuration.csproj", "{D9892480-0355-43E1-BE93-86C863026E0B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PageContent", "PageContent", "{B388E1A7-89FA-474A-A7E7-843BA383D40B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStoreProject.Feature.PageContent", "src\Feature\PageContent\code\GameStoreProject.Feature.PageContent\GameStoreProject.Feature.PageContent.csproj", "{2A186CBB-45BA-4ED5-9B7F-DEB5C02308C6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D9892480-0355-43E1-BE93-86C863026E0B} = {D9892480-0355-43E1-BE93-86C863026E0B}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Website", "Website", "{86A125FC-0831-4E54-821C-2ADBAF1641C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStoreProject.Project.Website", "src\Project\Website\code\GameStoreProject\GameStoreProject.Project.Website.csproj", "{533264B5-CC50-4921-B941-D92ED8D944A7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2A186CBB-45BA-4ED5-9B7F-DEB5C02308C6} = {2A186CBB-45BA-4ED5-9B7F-DEB5C02308C6}
+		{D9892480-0355-43E1-BE93-86C863026E0B} = {D9892480-0355-43E1-BE93-86C863026E0B}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9892480-0355-43E1-BE93-86C863026E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9892480-0355-43E1-BE93-86C863026E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9892480-0355-43E1-BE93-86C863026E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9892480-0355-43E1-BE93-86C863026E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A186CBB-45BA-4ED5-9B7F-DEB5C02308C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A186CBB-45BA-4ED5-9B7F-DEB5C02308C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A186CBB-45BA-4ED5-9B7F-DEB5C02308C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A186CBB-45BA-4ED5-9B7F-DEB5C02308C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{533264B5-CC50-4921-B941-D92ED8D944A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533264B5-CC50-4921-B941-D92ED8D944A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533264B5-CC50-4921-B941-D92ED8D944A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533264B5-CC50-4921-B941-D92ED8D944A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{98463F0A-94EE-4838-A726-44E322E6DB18} = {4BC67B73-131B-4835-9FE8-9C67330D01B6}
+		{D9892480-0355-43E1-BE93-86C863026E0B} = {98463F0A-94EE-4838-A726-44E322E6DB18}
+		{B388E1A7-89FA-474A-A7E7-843BA383D40B} = {5DE637CB-36F1-4EC6-AC31-334C939CB601}
+		{2A186CBB-45BA-4ED5-9B7F-DEB5C02308C6} = {B388E1A7-89FA-474A-A7E7-843BA383D40B}
+		{86A125FC-0831-4E54-821C-2ADBAF1641C4} = {7C877A66-2F3D-40D9-B44D-4619B8FB7338}
+		{533264B5-CC50-4921-B941-D92ED8D944A7} = {86A125FC-0831-4E54-821C-2ADBAF1641C4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Caching.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.ServiceBus.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Configuration.6.0.1304.0\lib\NET45
+		SolutionGuid = {CB9DD8A2-C49C-4A2D-B565-A5C88FD54B18}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿---
+ID: "362721de-b2b6-4b9d-81a7-7d9431526bb9"
+Parent: "f7916301-8ba7-41d5-a9b4-cedb5b486249"
+Template: "4e8917a4-afa0-4235-b7b5-715b3ff7327a"
+Path: /sitecore/content/Home/Game Store/Games Store Content/Games/LF2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240412T001743Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3eda7b28-06e2-4538-8504-255b2bbc035c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240412T001743Z

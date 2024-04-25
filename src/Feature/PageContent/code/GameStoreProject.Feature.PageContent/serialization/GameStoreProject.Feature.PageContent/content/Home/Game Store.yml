@@ -1,0 +1,47 @@
+﻿---
+ID: "61601552-2321-4ede-84c3-5c3d0e6ba62e"
+Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
+Template: "fdde57ed-1981-4714-828d-213d6b6f7d5a"
+Path: /sitecore/content/Home/Game Store
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{29D6AD1B-60C2-4074-89AD-C41A646C7318}"
+          p:after="*[1=2]"
+          s:ds="{F7916301-8BA7-41D5-A9B4-CEDB5B486249}"
+          s:id="{7DEEB32D-27C5-4546-A008-E3E1319F2385}"
+          s:par=""
+          s:ph="main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240411T222359Z
+    - ID: "6b5fb630-efba-4b36-8a75-ea1470f02749"
+      Hint: Title
+      Value: Game Store Project
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7682d520-4ac3-4ae7-8bf2-73b833ce22fa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c19906e6-5c4b-4404-b1f1-d49dab6b01f6"
+      Hint: BodyText
+      Value: Provided by <strong>Jan Surdziel</strong>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240412T001945Z

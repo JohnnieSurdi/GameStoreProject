@@ -1,0 +1,23 @@
+{
+    "namespace": "GameStoreProject.Project.Website",
+    "description": "Content for Game Store Project Website",
+    "tags": ["content"],
+    "items": {
+      "includes": [
+        {
+          "name": "GameStoreProject.Project.Website.Layout",
+          "path": "/sitecore/layout/Layouts/Project",
+          "rules": [
+            {
+              "path": "/legacy",
+              "scope": "ignored"
+            }
+          ]
+        },
+        {
+          "name": "GameStoreProject.Project.Website.Templates",
+          "path": "/sitecore/templates/Project"
+        }
+      ]
+    }
+}

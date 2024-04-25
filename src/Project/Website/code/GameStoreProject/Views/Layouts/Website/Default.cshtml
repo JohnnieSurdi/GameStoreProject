@@ -1,0 +1,24 @@
+﻿@model Sitecore.Mvc.Presentation.RenderingModel
+@using Sitecore.Mvc
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Game Store Project</title>
+</head>
+<body>
+    <div id="HeaderContent">
+        @Html.Sitecore().Placeholder("hero")
+    </div>
+
+    <div id="MainContent">
+        @Html.Sitecore().Placeholder("main")
+    </div>
+
+    <div id="FooterContent">
+        @Html.Sitecore().Placeholder("footer")
+    </div>
+</body>
+</html>

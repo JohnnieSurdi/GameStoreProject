@@ -1,0 +1,38 @@
+﻿---
+ID: "f7916301-8ba7-41d5-a9b4-cedb5b486249"
+Parent: "253bba4c-3bf9-4d5e-b196-1b5c2e3693fb"
+Template: "1438203a-ba83-46f4-978f-f93e89700fde"
+Path: /sitecore/content/Home/Game Store/Games Store Content/Games
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{4E8917A4-AFA0-4235-B7B5-715B3FF7327A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240412T000718Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14bee243-56cb-4e64-9ec4-791277523c16"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bd724f15-e845-4e62-9d96-2acf551f8ffd"
+      Hint: Title
+      Value: "Games available: "
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240412T001916Z
