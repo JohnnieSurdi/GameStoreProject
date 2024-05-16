@@ -1,22 +1,24 @@
 ﻿---
-ID: "253bba4c-3bf9-4d5e-b196-1b5c2e3693fb"
-Parent: "61601552-2321-4ede-84c3-5c3d0e6ba62e"
-Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: /sitecore/content/Home/Game Store/Games Store Content
+ID: "845de244-811e-48b2-8e37-4d77b565953d"
+Parent: "a5dcb131-457f-4753-915c-0b94c196abe3"
+Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
+Path: /sitecore/content/Dictionary/Game Store Domain/GameStore
 SharedFields:
-- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
-  Hint: __Masters
-  Value: |
-    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
-    {1438203A-BA83-46F4-978F-F93E89700FDE}
+- ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
+  Hint: Key
+  Value: GameStoreDomain.GameStoreName
 Languages:
 - Language: en
+  Fields:
+  - ID: "2ba3454a-9a9c-4cdf-a9f8-107fd484eb6e"
+    Hint: Phrase
+    Value: Game Store Project
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240412T000426Z
+      Value: 20240425T224626Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -27,11 +29,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7acf9935-4fc8-42dd-9dea-d07176c333c9"
+      Value: "6df6dc95-6057-468b-9de1-bbca4233a0c7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240425T224756Z
+      Value: 20240426T132614Z

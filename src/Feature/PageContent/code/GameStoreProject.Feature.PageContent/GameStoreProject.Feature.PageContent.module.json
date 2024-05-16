@@ -6,13 +6,7 @@
       "includes": [
         {
           "name": "GameStoreProject.Feature.PageContent",
-          "path": "/sitecore/content",
-          "rules": [
-            {
-              "path": "/legacy",
-              "scope": "ignored"
-            }
-          ]
+          "path": "/sitecore/content"
         },
         {
           "name": "GameStoreProject.MediaLibrary",

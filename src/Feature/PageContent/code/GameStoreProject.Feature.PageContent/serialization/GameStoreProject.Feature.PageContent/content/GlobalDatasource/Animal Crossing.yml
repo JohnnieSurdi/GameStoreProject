@@ -1,0 +1,43 @@
+﻿---
+ID: "26835629-e25c-42b9-bd2c-eacf9ac83ad5"
+Parent: "d3767b02-990e-49a4-9eb0-d5840aaddb9e"
+Template: "779c9389-b8f4-4e79-9686-d2456f8f6006"
+Path: /sitecore/content/GlobalDatasource/Animal Crossing
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240516T215603Z
+    - ID: "2b1f488e-27dd-4aba-8365-d9723ca9234c"
+      Hint: ProductId
+      Value: 12
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "680c9533-3af9-4bf1-9e2e-9e59ec8f2e5f"
+      Hint: Price
+      Value: 49.99
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "193bbffe-8e1a-465f-88dd-5d5eaeaf7105"
+    - ID: "a9825f56-4e59-48be-9700-1d59f3ab33fd"
+      Hint: Description
+      Value: Relaxing life simulation on a deserted island
+    - ID: "b3aef9da-fb3a-4255-81af-b1185b0c82b8"
+      Hint: Name
+      Value: Animal Crossing
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240516T215603Z

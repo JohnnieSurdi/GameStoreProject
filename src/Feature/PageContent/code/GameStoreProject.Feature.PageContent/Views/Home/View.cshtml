@@ -1,0 +1,16 @@
+﻿@using Sitecore.Mvc;
+@using Sitecore.Mvc.Presentation;
+@using Sitecore.Data;
+@using Sitecore.Data.Items;
+
+@model List<Item>
+
+
+<h2>Controller Rendering Home:</h2>
+
+@foreach(Item game in Model)
+            {
+                <p>
+                    @game.Name
+                </p>
+            }

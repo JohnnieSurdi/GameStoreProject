@@ -1,8 +1,8 @@
 ﻿---
-ID: "1d99d4da-77b2-4b3d-8016-e509531e4e93"
+ID: "43154543-1665-4f7c-afbf-caa91f08aaaa"
 Parent: "d3767b02-990e-49a4-9eb0-d5840aaddb9e"
-Template: "e89c54f8-5bd4-4be1-9152-cba781767e1b"
-Path: /sitecore/content/Global Datasource/Hero
+Template: "779c9389-b8f4-4e79-9686-d2456f8f6006"
+Path: /sitecore/content/GlobalDatasource/League of Legends
 Languages:
 - Language: en
   Versions:
@@ -10,7 +10,10 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240411T232519Z
+      Value: 20240516T215603Z
+    - ID: "2b1f488e-27dd-4aba-8365-d9723ca9234c"
+      Hint: ProductId
+      Value: 13
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -19,21 +22,22 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\Admin
-    - ID: "62b5f30e-f5e5-4824-bfe6-2e37e0bab2ef"
-      Hint: HeroImage
-      Value: |
-        <image mediaid="{8742F946-C9B1-4240-9B8E-AD897718962E}" />
+    - ID: "680c9533-3af9-4bf1-9e2e-9e59ec8f2e5f"
+      Hint: Price
+      Value: 0
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c9294c4b-1b7d-447a-a974-2bb383cad66e"
+      Value: "8dc12a44-ed3c-43e3-8d40-600a0466b869"
+    - ID: "a9825f56-4e59-48be-9700-1d59f3ab33fd"
+      Hint: Description
+      Value: Massive multiplayer online battle arena
+    - ID: "b3aef9da-fb3a-4255-81af-b1185b0c82b8"
+      Hint: Name
+      Value: League of Legends
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240411T232559Z
-    - ID: "f971486f-7caf-4424-8dbf-3e5ff2670e58"
-      Hint: HeroLogo
-      Value: |
-        <image mediaid="{3EFC6C1F-D5F8-4297-AF47-3736F4153354}" />
+      Value: 20240516T215603Z
