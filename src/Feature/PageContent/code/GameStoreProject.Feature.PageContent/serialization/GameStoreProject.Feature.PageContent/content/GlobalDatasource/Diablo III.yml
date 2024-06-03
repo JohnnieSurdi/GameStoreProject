@@ -1,5 +1,5 @@
 ﻿---
-ID: "ffb13a48-0626-4c01-8503-9594e25c2ba6"
+ID: "89c64195-5fb1-47d0-a71f-5ca5c9eb67ca"
 Parent: "d3767b02-990e-49a4-9eb0-d5840aaddb9e"
 Template: "779c9389-b8f4-4e79-9686-d2456f8f6006"
 Path: /sitecore/content/GlobalDatasource/Diablo III
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240516T215605Z
+      Value: 20240602T213553Z
     - ID: "2b1f488e-27dd-4aba-8365-d9723ca9234c"
       Hint: ProductId
       Value: 37
@@ -27,7 +27,7 @@ Languages:
       Value: 19.99
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7d797d0a-b9ad-437b-a9fa-1d3da5c3dabe"
+      Value: "fd8f55d2-1306-477d-a40a-7fc5548ac13b"
     - ID: "a9825f56-4e59-48be-9700-1d59f3ab33fd"
       Hint: Description
       Value: Dark fantasy action RPG with loot and leveling
@@ -40,4 +40,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240516T215605Z
+      Value: 20240602T213553Z

@@ -1,5 +1,5 @@
 ﻿---
-ID: "9897a4ca-4541-4bbc-bece-526bab534b2a"
+ID: "42c2e8ce-76be-49a3-96ee-d1f2a8d6cc27"
 Parent: "d3767b02-990e-49a4-9eb0-d5840aaddb9e"
 Template: "779c9389-b8f4-4e79-9686-d2456f8f6006"
 Path: /sitecore/content/GlobalDatasource/Call of Duty Modern Warfare
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240516T215605Z
+      Value: 20240602T213553Z
     - ID: "2b1f488e-27dd-4aba-8365-d9723ca9234c"
       Hint: ProductId
       Value: 44
@@ -27,7 +27,7 @@ Languages:
       Value: 39.99
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "919680c4-e457-4ec5-beeb-18ea064e128f"
+      Value: "94ef7b59-e463-4eec-a0e6-ccd0c6e8f1ae"
     - ID: "a9825f56-4e59-48be-9700-1d59f3ab33fd"
       Hint: Description
       Value: "Intense FPS with gripping single-player and multiplayer"
@@ -40,4 +40,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240516T215605Z
+      Value: 20240602T213553Z

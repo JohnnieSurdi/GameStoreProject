@@ -1,5 +1,5 @@
 ﻿---
-ID: "6ce64516-6313-40c3-855c-66898cbf0d08"
+ID: "e09a7c95-cb4c-4b86-a7bd-76ec3bba71a0"
 Parent: "d3767b02-990e-49a4-9eb0-d5840aaddb9e"
 Template: "779c9389-b8f4-4e79-9686-d2456f8f6006"
 Path: /sitecore/content/GlobalDatasource/Stardew Valley
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240516T215604Z
+      Value: 20240602T213553Z
     - ID: "2b1f488e-27dd-4aba-8365-d9723ca9234c"
       Hint: ProductId
       Value: 25
@@ -27,7 +27,7 @@ Languages:
       Value: 14.99
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7788cb39-c0e9-4959-a3e7-82e5776a4dde"
+      Value: "1809184d-24bf-48f5-9c0d-b97aac9d485d"
     - ID: "a9825f56-4e59-48be-9700-1d59f3ab33fd"
       Hint: Description
       Value: Farming simulation game with charming visuals
@@ -40,4 +40,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240516T215604Z
+      Value: 20240602T213553Z

@@ -1,5 +1,5 @@
 ﻿---
-ID: "678596f1-056d-4245-abd5-b30097f8d517"
+ID: "5cde3dee-ac3f-4ad5-932c-fb2ff6e865a2"
 Parent: "d3767b02-990e-49a4-9eb0-d5840aaddb9e"
 Template: "779c9389-b8f4-4e79-9686-d2456f8f6006"
 Path: /sitecore/content/GlobalDatasource/Sekiro Shadows Die Twice
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240516T215605Z
+      Value: 20240602T213554Z
     - ID: "2b1f488e-27dd-4aba-8365-d9723ca9234c"
       Hint: ProductId
       Value: 47
@@ -27,7 +27,7 @@ Languages:
       Value: 49.99
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3f618c08-8937-4a51-b016-c85f31abbccf"
+      Value: "409709f4-30a1-4f17-987c-3aa0ffa2701d"
     - ID: "a9825f56-4e59-48be-9700-1d59f3ab33fd"
       Hint: Description
       Value: "Challenging action-adventure in feudal Japan"
@@ -40,4 +40,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240516T215605Z
+      Value: 20240602T213554Z

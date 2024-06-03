@@ -1,8 +1,15 @@
 ﻿---
-ID: "1d99d4da-77b2-4b3d-8016-e509531e4e93"
-Parent: "d3767b02-990e-49a4-9eb0-d5840aaddb9e"
-Template: "e89c54f8-5bd4-4be1-9152-cba781767e1b"
-Path: /sitecore/content/GlobalDatasource/Hero
+ID: "779c9389-b8f4-4e79-9686-d2456f8f6006"
+Parent: "8873f175-892c-4be7-bfb4-60e7e3b7bbc9"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/PageContent/Game
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: People/32x32/basketball.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: 
 Languages:
 - Language: en
   Versions:
@@ -10,7 +17,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240411T232519Z
+      Value: 20240515T205528Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -19,21 +26,13 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\Admin
-    - ID: "62b5f30e-f5e5-4824-bfe6-2e37e0bab2ef"
-      Hint: HeroImage
-      Value: |
-        <image mediaid="{8742F946-C9B1-4240-9B8E-AD897718962E}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c9294c4b-1b7d-447a-a974-2bb383cad66e"
+      Value: "e0fce17a-6119-4c34-b83d-72909cd331d3"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240411T232559Z
-    - ID: "f971486f-7caf-4424-8dbf-3e5ff2670e58"
-      Hint: HeroLogo
-      Value: |
-        <image mediaid="{3EFC6C1F-D5F8-4297-AF47-3736F4153354}" />
+      Value: 20240517T132618Z

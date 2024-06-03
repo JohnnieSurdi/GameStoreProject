@@ -1,5 +1,5 @@
 ﻿---
-ID: "4fe8a329-af52-475f-b3cc-557ba51b16da"
+ID: "35bc5e78-c307-4cf5-bae5-e13f269264f4"
 Parent: "d3767b02-990e-49a4-9eb0-d5840aaddb9e"
 Template: "779c9389-b8f4-4e79-9686-d2456f8f6006"
 Path: /sitecore/content/GlobalDatasource/Genshin Impact
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240516T215604Z
+      Value: 20240602T213552Z
     - ID: "2b1f488e-27dd-4aba-8365-d9723ca9234c"
       Hint: ProductId
       Value: 22
@@ -27,7 +27,7 @@ Languages:
       Value: 0
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4e493c52-cdcf-4279-8a22-92e4c71a091e"
+      Value: "258a3425-7156-4a11-a671-71e44d13283f"
     - ID: "a9825f56-4e59-48be-9700-1d59f3ab33fd"
       Hint: Description
       Value: "Open-world action RPG with elemental combat"
@@ -40,4 +40,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240516T215604Z
+      Value: 20240602T213553Z

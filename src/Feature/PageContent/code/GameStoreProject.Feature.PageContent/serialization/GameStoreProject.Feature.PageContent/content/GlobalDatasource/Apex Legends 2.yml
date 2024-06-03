@@ -1,5 +1,5 @@
 ﻿---
-ID: "4a44d70f-94fb-488b-8dbf-5ad5782abf3f"
+ID: "ec77cae0-c7ec-48f1-bed1-67f51473c7d9"
 Parent: "d3767b02-990e-49a4-9eb0-d5840aaddb9e"
 Template: "779c9389-b8f4-4e79-9686-d2456f8f6006"
 Path: /sitecore/content/GlobalDatasource/Apex Legends 2
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240516T215605Z
+      Value: 20240602T213553Z
     - ID: "2b1f488e-27dd-4aba-8365-d9723ca9234c"
       Hint: ProductId
       Value: 40
@@ -27,7 +27,7 @@ Languages:
       Value: 0
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4b26b2ad-3c36-413c-9174-61d8a45d15c4"
+      Value: "e1a88ad4-dc03-45ac-8403-a57b631b23ac"
     - ID: "a9825f56-4e59-48be-9700-1d59f3ab33fd"
       Hint: Description
       Value: "Hero-based battle royale from Respawn"
@@ -40,4 +40,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240516T215605Z
+      Value: 20240602T213553Z

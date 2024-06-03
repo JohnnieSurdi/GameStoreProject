@@ -1,5 +1,5 @@
 ﻿---
-ID: "26835629-e25c-42b9-bd2c-eacf9ac83ad5"
+ID: "17347b65-387f-477c-9b65-22385c6b08c1"
 Parent: "d3767b02-990e-49a4-9eb0-d5840aaddb9e"
 Template: "779c9389-b8f4-4e79-9686-d2456f8f6006"
 Path: /sitecore/content/GlobalDatasource/Animal Crossing
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240516T215603Z
+      Value: 20240602T213552Z
     - ID: "2b1f488e-27dd-4aba-8365-d9723ca9234c"
       Hint: ProductId
       Value: 12
@@ -27,7 +27,7 @@ Languages:
       Value: 49.99
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "193bbffe-8e1a-465f-88dd-5d5eaeaf7105"
+      Value: "72564627-a2c7-4a5a-a501-ea5b39a00ae3"
     - ID: "a9825f56-4e59-48be-9700-1d59f3ab33fd"
       Hint: Description
       Value: Relaxing life simulation on a deserted island
@@ -40,4 +40,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240516T215603Z
+      Value: 20240602T213552Z

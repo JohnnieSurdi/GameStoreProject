@@ -1,5 +1,5 @@
 ﻿---
-ID: "fc1c7b68-6005-4f20-af4a-058136adc105"
+ID: "06e78f27-9cfb-4d8b-91b8-c697386fa117"
 Parent: "d3767b02-990e-49a4-9eb0-d5840aaddb9e"
 Template: "779c9389-b8f4-4e79-9686-d2456f8f6006"
 Path: /sitecore/content/GlobalDatasource/Breath of the Wild 2
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240516T215605Z
+      Value: 20240602T213554Z
     - ID: "2b1f488e-27dd-4aba-8365-d9723ca9234c"
       Hint: ProductId
       Value: 50
@@ -27,7 +27,7 @@ Languages:
       Value: 59.99
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8f3c9280-6fa4-4dd9-b654-aa3d62700678"
+      Value: "37c187b3-43c5-4c81-a810-0fc8fde453e0"
     - ID: "a9825f56-4e59-48be-9700-1d59f3ab33fd"
       Hint: Description
       Value: Highly anticipated sequel to the Zelda franchise
@@ -40,4 +40,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240516T215606Z
+      Value: 20240602T213554Z

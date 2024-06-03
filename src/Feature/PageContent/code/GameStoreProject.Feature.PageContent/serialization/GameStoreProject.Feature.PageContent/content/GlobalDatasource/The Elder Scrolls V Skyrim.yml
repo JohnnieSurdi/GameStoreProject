@@ -1,5 +1,5 @@
 ﻿---
-ID: "0c42b0de-58c3-44f1-9802-7c929b4f5161"
+ID: "ea2e5249-147b-4272-aad0-b8ff66c8cd78"
 Parent: "d3767b02-990e-49a4-9eb0-d5840aaddb9e"
 Template: "779c9389-b8f4-4e79-9686-d2456f8f6006"
 Path: /sitecore/content/GlobalDatasource/The Elder Scrolls V Skyrim
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240516T215604Z
+      Value: 20240602T213552Z
     - ID: "2b1f488e-27dd-4aba-8365-d9723ca9234c"
       Hint: ProductId
       Value: 21
@@ -27,7 +27,7 @@ Languages:
       Value: 39.99
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6108ee82-901d-4f2f-bf7b-efb55b51f90a"
+      Value: "171e34dc-3bf0-4b61-b592-164d4f5df24b"
     - ID: "a9825f56-4e59-48be-9700-1d59f3ab33fd"
       Hint: Description
       Value: Epic fantasy RPG with endless exploration
@@ -40,4 +40,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240516T215604Z
+      Value: 20240602T213552Z
