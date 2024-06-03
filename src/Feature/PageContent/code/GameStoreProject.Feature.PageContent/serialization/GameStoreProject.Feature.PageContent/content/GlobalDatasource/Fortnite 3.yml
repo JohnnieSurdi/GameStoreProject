@@ -1,5 +1,5 @@
 ﻿---
-ID: "81b1441c-279f-4ed9-9e16-e8d43a0b47e3"
+ID: "87d34b72-43d3-435b-aeac-72b11edbef58"
 Parent: "d3767b02-990e-49a4-9eb0-d5840aaddb9e"
 Template: "779c9389-b8f4-4e79-9686-d2456f8f6006"
 Path: /sitecore/content/GlobalDatasource/Fortnite 3
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240516T215605Z
+      Value: 20240602T213553Z
     - ID: "2b1f488e-27dd-4aba-8365-d9723ca9234c"
       Hint: ProductId
       Value: 35
@@ -27,7 +27,7 @@ Languages:
       Value: 0
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ac1d5a0e-c52c-421b-92dc-e43d66ac20a1"
+      Value: "c972c4f4-8b99-406d-9f21-2e56401460e6"
     - ID: "a9825f56-4e59-48be-9700-1d59f3ab33fd"
       Hint: Description
       Value: Battle Royale frenzy with building mechanics
@@ -40,4 +40,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240516T215605Z
+      Value: 20240602T213553Z

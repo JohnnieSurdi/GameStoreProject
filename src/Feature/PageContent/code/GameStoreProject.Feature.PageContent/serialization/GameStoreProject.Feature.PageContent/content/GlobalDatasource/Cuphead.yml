@@ -1,5 +1,5 @@
 ﻿---
-ID: "7c8d2a6d-0c45-43b7-ac96-8fcc0f859c51"
+ID: "b49afa1f-b7e3-42ed-a2fe-28f341bfc368"
 Parent: "d3767b02-990e-49a4-9eb0-d5840aaddb9e"
 Template: "779c9389-b8f4-4e79-9686-d2456f8f6006"
 Path: /sitecore/content/GlobalDatasource/Cuphead
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240516T215605Z
+      Value: 20240602T213554Z
     - ID: "2b1f488e-27dd-4aba-8365-d9723ca9234c"
       Hint: ProductId
       Value: 48
@@ -27,7 +27,7 @@ Languages:
       Value: 19.99
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "648bb8b3-4a38-4ada-bcc6-0f08137ea269"
+      Value: "d2a6057c-d36f-4606-b66c-9752792e0306"
     - ID: "a9825f56-4e59-48be-9700-1d59f3ab33fd"
       Hint: Description
       Value: "Stylish run-and-gun action with retro animation"
@@ -40,4 +40,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240516T215605Z
+      Value: 20240602T213554Z

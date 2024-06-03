@@ -1,5 +1,5 @@
 ﻿---
-ID: "8d2f721d-4799-4e3d-a4bc-2f6be50eac83"
+ID: "86fe295d-5465-418d-b590-8da8676d6d1f"
 Parent: "d3767b02-990e-49a4-9eb0-d5840aaddb9e"
 Template: "779c9389-b8f4-4e79-9686-d2456f8f6006"
 Path: /sitecore/content/GlobalDatasource/Hades
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240516T215604Z
+      Value: 20240602T213553Z
     - ID: "2b1f488e-27dd-4aba-8365-d9723ca9234c"
       Hint: ProductId
       Value: 26
@@ -27,7 +27,7 @@ Languages:
       Value: 24.99
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "14a554cf-50ca-44f1-a341-2b5c22459de7"
+      Value: "fb3da8ec-46c7-432a-90f2-386704c53f13"
     - ID: "a9825f56-4e59-48be-9700-1d59f3ab33fd"
       Hint: Description
       Value: "Rogue-like dungeon crawler with Greek mythology"
@@ -40,4 +40,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240516T215604Z
+      Value: 20240602T213553Z

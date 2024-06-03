@@ -3,8 +3,16 @@ ID: "d3767b02-990e-49a4-9eb0-d5840aaddb9e"
 Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
 Path: /sitecore/content/GlobalDatasource
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
 Languages:
 - Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Global Datasource
   Versions:
   - Version: 1
     Fields:
@@ -21,11 +29,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e5b9f658-d8fe-4ad5-9a34-6a3834863e5b"
+      Value: "07d82f68-2c89-4920-aa0b-a643d25c613b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240411T232442Z
+      Value: 20240603T000141Z

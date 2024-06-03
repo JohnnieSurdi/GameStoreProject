@@ -1,5 +1,5 @@
 ﻿---
-ID: "5cbf7b5c-9b21-4008-8882-184040ec1504"
+ID: "1ed1bef3-f170-4d6b-a694-d536cd805d0d"
 Parent: "d3767b02-990e-49a4-9eb0-d5840aaddb9e"
 Template: "779c9389-b8f4-4e79-9686-d2456f8f6006"
 Path: /sitecore/content/GlobalDatasource/The Witcher 3
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240516T215602Z
+      Value: 20240602T213551Z
     - ID: "2b1f488e-27dd-4aba-8365-d9723ca9234c"
       Hint: ProductId
       Value: 1
@@ -27,7 +27,7 @@ Languages:
       Value: 59.99
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "918b2e4e-08dd-4e7c-b4ca-981e811ba254"
+      Value: "d6dcccda-0dd8-41b6-92ff-5c0a72b7ff08"
     - ID: "a9825f56-4e59-48be-9700-1d59f3ab33fd"
       Hint: Description
       Value: "An open-world RPG where you hunt monsters"
@@ -40,4 +40,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240516T215602Z
+      Value: 20240602T213551Z

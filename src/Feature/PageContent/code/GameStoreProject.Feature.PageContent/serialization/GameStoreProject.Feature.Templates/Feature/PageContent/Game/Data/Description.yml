@@ -1,27 +1,30 @@
 ﻿---
-ID: "f971486f-7caf-4424-8dbf-3e5ff2670e58"
-Parent: "5286fcb6-573b-4709-8081-9b745f5da42b"
+ID: "a9825f56-4e59-48be-9700-1d59f3ab33fd"
+Parent: "9673eb9a-0081-47a6-b941-d7e21888a9f5"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/PageContent/Hero/Hero Content/HeroLogo
+Path: /sitecore/templates/Feature/PageContent/Game/Data/Description
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: Image
+  Value: "Single-Line Text"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 200
+  Value: 300
 Languages:
 - Language: en
   Fields:
   - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
     Hint: Title
-    Value: Hero Logo
+    Value: Description
+  - ID: "9541e67d-ce8c-4225-803d-33f7f29f09ef"
+    Hint: __Short description
+    Value: Desription of game
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240411T231359Z
+      Value: 20240515T205703Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -32,11 +35,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8e481277-3528-4e68-84e7-cf5cc339e6bd"
+      Value: "19d51ef0-1019-4b85-96a3-1b64dcd48e9a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240603T000032Z
+      Value: 20240516T220853Z

@@ -1,5 +1,5 @@
 ﻿---
-ID: "b822fc5a-68db-48e3-8864-d428c4e997fc"
+ID: "938cbf49-29f3-4001-9bce-cefd6e0d5618"
 Parent: "d3767b02-990e-49a4-9eb0-d5840aaddb9e"
 Template: "779c9389-b8f4-4e79-9686-d2456f8f6006"
 Path: /sitecore/content/GlobalDatasource/Valorant 2
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240516T215605Z
+      Value: 20240602T213553Z
     - ID: "2b1f488e-27dd-4aba-8365-d9723ca9234c"
       Hint: ProductId
       Value: 39
@@ -27,7 +27,7 @@ Languages:
       Value: 0
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a63f17c2-355d-4e63-acc3-1ae55d4244b7"
+      Value: "53768312-2f68-430e-9802-3721020c07c0"
     - ID: "a9825f56-4e59-48be-9700-1d59f3ab33fd"
       Hint: Description
       Value: Tactical shooter with unique character abilities
@@ -40,4 +40,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240516T215605Z
+      Value: 20240602T213553Z
